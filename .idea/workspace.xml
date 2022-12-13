@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f29c13a2-08c5-462a-a62d-dd3ad3123955" name="Default Changelist" comment="" />
+    <list default="true" id="f29c13a2-08c5-462a-a62d-dd3ad3123955" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P401.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P402.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P404.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P378.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P378.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P382.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P382.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P384.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P384.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P386.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P386.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P392.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P392.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P396.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P396.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P397_P398.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P397_P398.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,102 +28,95 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sort/HeapSort.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sort/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="614">
-              <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
-              <folding>
-                <element signature="e#974#1034#0" />
-              </folding>
+            <state relative-caret-position="1160">
+              <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/bit_operation/practice/P355.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P384.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="783">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/bit_operation/practice/P357.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="841">
-              <caret line="30" column="36" selection-start-line="29" selection-start-column="42" selection-end-line="31" selection-end-column="5" />
-              <folding>
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#627#628#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/bit_operation/practice/P359.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P386.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1131">
-              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+              <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P361.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P392.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="899">
-              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            <state relative-caret-position="290">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+              <folding>
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P363.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P396.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="725">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P364.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P397_P398.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1218">
+              <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P401.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1073">
-              <caret line="37" column="52" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P366.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P402.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1653">
-              <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+            <state relative-caret-position="638">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P371.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P404.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="614">
-              <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+            <state relative-caret-position="1740">
+              <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P372.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/classic/KMP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="962">
-              <caret line="80" column="42" lean-forward="true" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#printOverHalfNum#0;class#P372#0" />
-              </folding>
+            <state relative-caret-position="435">
+              <caret line="69" column="20" lean-forward="true" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -160,21 +165,12 @@
       <replace>Node</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/dynamic/practice/P179_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dynamic/practice/P192_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dynamic/practice/P210_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dynamic/practice/P185_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dynamic/practice/P189_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dynamic/practice/P199_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dynamic/practice/P204_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dynamic/practice/P217_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dynamic/practice/P220_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dynamic/practice/P223_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dynamic/practice/P227_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dynamic/practice/P230_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/dynamic/practice/P236_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/string/p292.java" />
         <option value="$PROJECT_DIR$/src/main/java/string/practice/P253_2.java" />
@@ -214,6 +210,18 @@
         <option value="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P366.java" />
         <option value="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P371.java" />
         <option value="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P372.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P378.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P382.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P384.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P386.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P392.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P394.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P396.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P397.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P397_P398.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P401.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P402.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P404.java" />
       </list>
     </option>
   </component>
@@ -229,6 +237,9 @@
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -275,8 +286,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="arr_matrix" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="classic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ZuoChengyun" type="b2602c69:ProjectViewProjectNode" />
@@ -284,7 +294,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ZuoChengyun" type="b2602c69:ProjectViewProjectNode" />
@@ -316,6 +326,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -343,59 +354,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P366">
-    <configuration name="P357" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bit_operation.practice.P357" />
-      <module name="ZuoChengyun" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bit_operation.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P359" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bit_operation.practice.P359" />
-      <module name="ZuoChengyun" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bit_operation.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P361" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr_matrix.practice.P361" />
-      <module name="ZuoChengyun" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arr_matrix.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P364" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arr_matrix.practice.P364" />
-      <module name="ZuoChengyun" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arr_matrix.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P404">
     <configuration name="P366" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arr_matrix.practice.P366" />
       <module name="ZuoChengyun" />
@@ -409,13 +368,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P382" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arr_matrix.practice.P382" />
+      <module name="ZuoChengyun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arr_matrix.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P396" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arr_matrix.practice.P396" />
+      <module name="ZuoChengyun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arr_matrix.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P397" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arr_matrix.practice.P397" />
+      <module name="ZuoChengyun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arr_matrix.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P404" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arr_matrix.practice.P404" />
+      <module name="ZuoChengyun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arr_matrix.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P404" />
+        <item itemvalue="Application.P397" />
+        <item itemvalue="Application.P396" />
+        <item itemvalue="Application.P382" />
         <item itemvalue="Application.P366" />
-        <item itemvalue="Application.P364" />
-        <item itemvalue="Application.P361" />
-        <item itemvalue="Application.P359" />
-        <item itemvalue="Application.P357" />
       </list>
     </recent_temporary>
   </component>
@@ -443,9 +454,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17537314" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18017058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -454,16 +464,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32924107" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30691963" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39174107" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30614525" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39106146" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32924107" />
       <window_info anchor="bottom" id="SBT Execute" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32924107" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32849163" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32924107" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32849163" />
       <window_info anchor="bottom" id="Statistic" order="12" />
       <window_info anchor="bottom" id="Tail" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -691,6 +701,18 @@
           <properties />
           <option name="timeStamp" value="129" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P382.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P396.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -700,87 +722,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/dynamic/practice/P217_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dynamic/practice/P220_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1682">
-          <caret line="58" column="46" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dynamic/practice/P223_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dynamic/practice/P227_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dynamic/practice/P230_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dynamic/practice/P236_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dynamic/practice/P179_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/practice/P253_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/practice/P255_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/practice/P254_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/string/practice/P258_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -941,13 +882,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classic/KMP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2494">
-          <caret line="86" column="42" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/stack_queue/P7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
@@ -1060,31 +994,119 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P371.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P372.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1073">
+          <caret line="67" column="46" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#printOverHalfNum#0;class#P372#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P378.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P382.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sort/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+        <state relative-caret-position="986">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
           <folding>
             <element signature="e#974#1034#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P371.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        <state relative-caret-position="1160">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P372.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P384.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="962">
-          <caret line="80" column="42" lean-forward="true" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="42" />
+        <state relative-caret-position="783">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P386.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1131">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P392.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#printOverHalfNum#0;class#P372#0" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P396.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P397_P398.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P401.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1073">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P402.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P404.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classic/KMP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="69" column="20" lean-forward="true" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
         </state>
       </provider>
     </entry>
