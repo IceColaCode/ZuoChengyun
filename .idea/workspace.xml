@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f29c13a2-08c5-462a-a62d-dd3ad3123955" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P401.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P402.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/arr_matrix/practice/P404.java" afterDir="false" />
@@ -17,14 +21,150 @@
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/ZuoQuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stack_queue/P13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stack_queue/P20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stack_queue/practice/P13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stack_queue/practice/P7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stack_queue/practice/P9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/list/P74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/list/P74.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sort/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tree/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tree/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LRUTest/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LRUTest/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LRUTest/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LRUTest/LRUCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LRUTest/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LRUTest/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/arr_matrix/P372.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arr_matrix/P372.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/arr_matrix/P382.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arr_matrix/P382.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/arr_matrix/practice/P361.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arr_matrix/practice/P361.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/arr_matrix/practice/P363.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arr_matrix/practice/P363.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/arr_matrix/practice/P364.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arr_matrix/practice/P364.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/arr_matrix/practice/P366.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arr_matrix/practice/P366.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bit_operation/practice/P349.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bit_operation/practice/P349.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bit_operation/practice/P350.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bit_operation/practice/P350.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bit_operation/practice/P355.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bit_operation/practice/P355.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bit_operation/practice/P357.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bit_operation/practice/P357.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bit_operation/practice/P359.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bit_operation/practice/P359.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classic/KMP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classic/KMP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/P179.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/P179.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/P185.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/P185.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/P189.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/P189.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/P189_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/P189_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/P192.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/P192.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/P192_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/P192_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/P199.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/P199.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/P199_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/P199_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/P210.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/P210.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/practice/P179_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/practice/P179_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/practice/P185_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/practice/P185_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/practice/P189_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/practice/P189_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/practice/P192_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/practice/P192_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/practice/P199_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/practice/P199_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/practice/P204_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/practice/P204_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/practice/P210_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/practice/P210_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/practice/P217_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/practice/P217_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/practice/P220_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/practice/P220_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/practice/P223_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/practice/P223_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/practice/P227_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/practice/P227_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/practice/P230_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/practice/P230_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dynamic/practice/P236_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dynamic/practice/P236_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/list/JosephusKill1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/list/JosephusKill1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/list/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/list/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/list/P60.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/list/P60.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/list/P63.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/list/P63.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/list/P74.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/list/P74.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/list/P90.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/list/P90.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/list/PrintCommonPart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/list/PrintCommonPart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/list/RNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/list/RNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sort/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sort/Quick3Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/Quick3Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sort/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stack_queue/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stack_queue/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stack_queue/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stack_queue/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stack_queue/P12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stack_queue/P12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stack_queue/P18.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stack_queue/P18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stack_queue/P7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stack_queue/P7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stack_queue/P9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stack_queue/P9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stack_queue/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stack_queue/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stack_queue/practice/MinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stack_queue/practice/MinStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/P253.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/P253.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/P281.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/P281.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/p292.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/p292.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/MyComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/MyComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P253_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P253_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P254_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P254_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P255_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P255_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P258_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P258_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P263_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P263_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P279_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P279_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P281_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P281_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P285_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P285_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P285_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P285_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P290_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P290_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P290_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P290_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P294_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P294_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P297_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P297_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P300_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P300_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P310_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P310_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P314_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P314_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P316_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P316_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P320.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P320.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/P325.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/P325.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/practice/TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/practice/TrieNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/Node2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/Node2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/P100.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/P100.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/P104.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/P104.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/P107.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/P107.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/P121.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/P121.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/P124.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/P124.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/P132.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/P132.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/P142.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/P142.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/P146.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/P146.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/P148.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/P148.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/P150.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/P150.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/P153.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/P153.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/P155.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/P155.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/P168.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/P168.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/P169.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/P169.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/P172.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/P172.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/P93.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/P93.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/ReturnType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/ReturnType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/ReturnType146.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/ReturnType146.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/ReturnType168.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/ReturnType168.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tree/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tree/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua_fea/DeviceParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua_fea/DeviceParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua_fea/OSParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua_fea/OSParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua_fea/Parsers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua_fea/Parsers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua_fea/Regexes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua_fea/Regexes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua_fea/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua_fea/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua_fea/UserAgent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua_fea/UserAgent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua_fea/UserAgentParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua_fea/UserAgentParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua_fea/user_agent_parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua_fea/user_agent_parser.class" afterDir="false" />
+    </list>
+>>>>>>> 85775b3554b378540dcc2793254676172adbc736
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -123,6 +263,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> 85775b3554b378540dcc2793254676172adbc736
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -225,12 +367,11 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -238,7 +379,12 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+=======
+  <component name="ProjectId" id="2DWWh5FMpGXYVJ55peyywYAGi8r" />
+  <component name="ProjectLevelVcsManager">
+>>>>>>> 85775b3554b378540dcc2793254676172adbc736
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -325,23 +471,44 @@
       <pane id="Scope" />
     </panes>
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+=======
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+>>>>>>> 85775b3554b378540dcc2793254676172adbc736
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/luoyan/JavaProjects/ZuoChengyun&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="ua_fea" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\test\java\ZuoChengyun\src" />
       <recent name="D:\code\test\java\ZuoChengyun" />
       <recent name="D:\code\test\java\ZuoChengyun\src\main\java\ua_fea" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="stack_queue" />
+      <recent name="ua_fea" />
+    </key>
   </component>
+<<<<<<< HEAD
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -361,6 +528,15 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="arr_matrix.practice.*" />
+=======
+  <component name="RunManager" selected="Application.P13">
+    <configuration name="P13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack_queue.practice.P13" />
+      <module name="ZuoChengyun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack_queue.practice.*" />
+>>>>>>> 85775b3554b378540dcc2793254676172adbc736
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -368,8 +544,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="P382" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arr_matrix.practice.P382" />
+=======
+    <configuration name="P366" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arr_matrix.practice.P366" />
+>>>>>>> 85775b3554b378540dcc2793254676172adbc736
       <module name="ZuoChengyun" />
       <extension name="coverage">
         <pattern>
@@ -381,25 +562,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="P396" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arr_matrix.practice.P396" />
+=======
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+>>>>>>> 85775b3554b378540dcc2793254676172adbc736
       <module name="ZuoChengyun" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arr_matrix.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="P397" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arr_matrix.practice.P397" />
+=======
+    <configuration name="ZuoQuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.ZuoQuickSort" />
+>>>>>>> 85775b3554b378540dcc2793254676172adbc736
       <module name="ZuoChengyun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arr_matrix.practice.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -407,12 +592,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="P404" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arr_matrix.practice.P404" />
+=======
+    <configuration name="sort.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.Test" />
+>>>>>>> 85775b3554b378540dcc2793254676172adbc736
       <module name="ZuoChengyun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arr_matrix.practice.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -422,14 +612,22 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.P404" />
         <item itemvalue="Application.P397" />
         <item itemvalue="Application.P396" />
         <item itemvalue="Application.P382" />
+=======
+        <item itemvalue="Application.P13" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.sort.Test" />
+        <item itemvalue="Application.ZuoQuickSort" />
+>>>>>>> 85775b3554b378540dcc2793254676172adbc736
         <item itemvalue="Application.P366" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -440,6 +638,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581068221695</updated>
+      <workItem from="1660815443034" duration="14526000" />
+      <workItem from="1661654610236" duration="2204000" />
+      <workItem from="1662261120784" duration="1648000" />
+      <workItem from="1663051669275" duration="1419000" />
     </task>
     <servers />
   </component>
@@ -488,220 +690,195 @@
       <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/list/JosephusKill1.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ua_fea/user_agent_parser.java</url>
           <line>38</line>
-          <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ua_fea/user_agent_parser.java</url>
           <line>156</line>
-          <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ua_fea/user_agent_parser.java</url>
           <line>332</line>
-          <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ua_fea/user_agent_parser.java</url>
           <line>287</line>
-          <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/sort/QuickSort.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/list/P63.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/list/P74.java</url>
-          <line>51</line>
-          <properties />
+          <line>50</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/list/P74.java</url>
-          <line>46</line>
-          <properties />
+          <line>45</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/tree/P104.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/tree/Node.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dynamic/P189_2.java</url>
           <line>34</line>
-          <properties />
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/classic/KMP.java</url>
           <line>64</line>
-          <properties />
           <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/sort/Quick3Sort.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/string/P281.java</url>
           <line>77</line>
-          <properties />
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/string/P281.java</url>
           <line>44</line>
-          <properties />
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/tree/P100.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/tree/P121.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dynamic/P210.java</url>
           <line>41</line>
-          <properties />
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dynamic/P210.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dynamic/practice/P179_2.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dynamic/practice/P217_2.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/string/p292.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/string/practice/P254_2.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/string/practice/P281_2.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="104" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/string/practice/P285_2.java</url>
           <line>60</line>
-          <properties />
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/string/practice/P285_2.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/string/practice/P290_2.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="109" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/string/practice/P294_1.java</url>
           <line>49</line>
-          <properties />
           <option name="timeStamp" value="113" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/string/practice/P294_1.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/string/practice/P300_1.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/arr_matrix/P372.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="119" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/bit_operation/practice/P349.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/bit_operation/practice/P350.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P366.java</url>
           <line>35</line>
-          <properties />
           <option name="timeStamp" value="129" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
+<<<<<<< HEAD
           <url>file://$PROJECT_DIR$/src/main/java/arr_matrix/practice/P382.java</url>
           <line>17</line>
           <properties />
@@ -712,6 +889,21 @@
           <line>13</line>
           <properties />
           <option name="timeStamp" value="135" />
+=======
+          <url>file://$PROJECT_DIR$/src/main/java/sort/Test.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sort/Test.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sort/Test.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="153" />
+>>>>>>> 85775b3554b378540dcc2793254676172adbc736
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
